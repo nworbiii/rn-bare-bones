@@ -1,0 +1,12 @@
+{
+  "name": "rn-bare-bones",
+  "displayName": "rn-bare-bones",
+  "expo": {
+    "name": "rn-bare-bones",
+    "slug": "rn-bare-bones",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
